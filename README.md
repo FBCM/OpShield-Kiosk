@@ -1,2 +1,2 @@
 # OpShield-Kiosk
-Demo kiosk application for Wurldtech OpShield
+Demo kiosk application for Wurldtech OpShield.
